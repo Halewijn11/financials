@@ -1,0 +1,13 @@
+ID,Date,Description,Currency,Amount,Type,Tags,Account,Status,Memo,IOU
+180665643,2022-09-30,"T Kint Peter M",EUR,-10.15,Expense,"Parental refund","current account",Cleared," "
+180201846,2022-09-28,"Rugzak Rains",EUR,-67.9,Expense,"Parental refund","current account",Cleared," "
+180201842,2022-09-28,"terugbatling rugzak rains",EUR,67.9,Refund,"Parental refund","current account",Cleared," "
+180185645,2022-09-26,"Patagonia jas",EUR,-109.55,Expense,"Parental refund","current account",Cleared," "
+180185642,2022-09-26,"terugbetaling jas patagonia",EUR,109.55,Refund,"Parental refund","current account",Cleared," "
+180185757,2022-09-21,"ticket Henk Rijckaert papa",EUR,-20,Expense,"Parental refund","current account",Cleared," "
+179683568,2022-09-15,"terugstoring slagerij",EUR,20.25,Refund,"Parental refund","current account",Cleared," "
+179604883,2022-09-13,"'t kint",EUR,-20.25,Expense,"Parental refund","current account",Cleared," "
+179524833,2022-09-12,"terugstorting slagerij",EUR,9.95,Refund,"Parental refund","current account",Cleared," "
+179524832,2022-09-12,"terugstorting slagerij",EUR,13.45,Refund,"Parental refund","current account",Cleared," "
+179438517,2022-09-09,"terugbetaling slagerij",EUR,-13.45,Expense,"Parental refund","current account",Cleared," "
+179438516,2022-09-09,"ingredienten voor spaghettisaus",EUR,-2.45,Expense,"Parental refund","current account",Cleared," "

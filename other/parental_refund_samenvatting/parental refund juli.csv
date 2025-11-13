@@ -1,0 +1,9 @@
+ID,Date,Description,Currency,Amount,Type,Tags,Account,Status,Memo,IOU
+177015916,2022-07-26,treinticket,EUR,-6.6,Expense,"Parental refund","current account",Cleared," "
+177015915,2022-07-26,treinticket,EUR,-6.6,Expense,"Parental refund","current account",Cleared," "
+177015913,2022-07-26,treinticket,EUR,-6.6,Expense,"Parental refund","current account",Cleared," "
+177015912,2022-07-26,treinticket,EUR,-5.6,Expense,"Parental refund","current account",Cleared," "
+177381550,2022-07-22,"Overschrijving Belfius Mobile Naar Nl13 Ingb 0005 2445 76 Hanneke Wielinga Extra Huur Juli Ref. : 090546767M269 Val. 22-07 Nl13Ingb0005244576",EUR,-18.75,Expense,"Parental refund","current account",Cleared," "
+177075678,2022-07-14,"Aankoop Bancontact Mobile Contactless Met Kaart Nr 6703 0513 5238 4000 - Van Den Bossche H Op 14/07 17:36Esprit Aalst Aal Ref. : 0019472201733 Val. 14-07 3523840 17:36 Esprit 6703051352384000Van",EUR,-14.55,Expense,"Parental refund / Clothing","current account",Cleared," "
+178121976,2022-07-04,treinticket,EUR,-6.6,Expense,"Parental refund / Transport","current account",Cleared," "
+178121974,2022-07-04,treinticket,EUR,-6.6,Expense,"Parental refund / Transport","current account",Cleared," "

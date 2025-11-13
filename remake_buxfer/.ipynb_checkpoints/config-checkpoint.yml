@@ -1,0 +1,178 @@
+rules:
+  - matching_col_name : 'description'
+    query: "t'kint peter m hek"
+    updated_col_name: 'short_description'
+    mapped_text: "slagerij t'kint"
+
+  - matching_col_name : 'description'
+    query: "t'kint peter m hek"
+    updated_col_name: 'tag'
+    mapped_text: "parental_refund"
+
+  - matching_col_name : 'description'
+    query: "delhaize watersport"
+    updated_col_name: 'short_description'
+    mapped_text: "Boodschappen delhaize watersportbaan"
+
+  - matching_col_name : 'description'
+    query: "leefgeld"
+    updated_col_name: 'short_description'
+    mapped_text: "parental_income"
+
+  - matching_col_name : 'description'
+    query: "leefgeld"
+    updated_col_name: 'tag'
+    mapped_text: "parental_income"
+
+  - matching_col_name : 'description'
+    query: "restaurant de brug c"
+    updated_col_name: 'short_description'
+    mapped_text: "eten studentenresto de brug"
+
+  - matching_col_name : 'description'
+    query: "restaurant de brug c"
+    updated_col_name: 'tag'
+    mapped_text: "food/student_restaurants"
+
+  - matching_col_name : 'description'
+    query: "restaurant campus ardo"
+    updated_col_name: 'short_description'
+    mapped_text: "eten studentenresto"
+
+  - matching_col_name : 'description'
+    query: "restaurant campus ardo"
+    updated_col_name: 'tag'
+    mapped_text: "food/student_restaurants"
+
+  - matching_col_name : 'description'
+    query: "vanwege meme en pepe"
+    updated_col_name: 'short_description'
+    mapped_text: "zakgeld meme pepe"
+
+  - matching_col_name : 'description'
+    query: "vanwege meme en pepe"
+    updated_col_name: 'tag'
+    mapped_text: "income/parental_income"
+
+  - matching_col_name : 'description'
+    query: "lidl"
+    updated_col_name: 'short_description'
+    mapped_text: "lidl boodschappen"
+
+  - matching_col_name : 'description'
+    query: "lidl"
+    updated_col_name: 'tag'
+    mapped_text:  "food/groceries"
+    
+  - matching_col_name : 'description'
+    query: "decathlon"
+    updated_col_name: 'short_description'
+    mapped_text: "decathlon"
+
+  - matching_col_name : 'description'
+    query: "decathlon"
+    updated_col_name: 'tag'
+    mapped_text: "sports"
+
+  - matching_col_name : 'description'
+    query: "mastercard afrekening"
+    updated_col_name: 'card'
+    mapped_text: "belfius_mastercard"
+
+  - matching_col_name : 'description'
+    query: "STORTING VAN BE12 0838 7886 7792 Van den Bossche"
+    updated_col_name: 'tag'
+    mapped_text: "from savings account"
+
+  - matching_col_name : 'description'
+    query: "mastercard afrekening"
+    updated_col_name: 'card'
+    mapped_text: "belfius_mastercard"
+
+  - matching_col_name : 'description'
+    query: "jumbo dasstraat delft"
+    updated_col_name: 'short_description'
+    mapped_text: "jumbo boodschappen"
+
+  - matching_col_name : 'description'
+    query: "jumbo dasstraat delft"
+    updated_col_name: 'tag'
+    mapped_text: "food/groceries"
+
+  - matching_col_name : 'description'
+    query: "Jumbo Delft Bastiaan"
+    updated_col_name: 'short_description'
+    mapped_text: "jumbo boodschappen"
+
+  - matching_col_name : 'description'
+    query: "jJumbo Delft Bastiaan"
+    updated_col_name: 'tag'
+    mapped_text: "food/groceries"
+
+
+  - matching_col_name : 'description'
+    query: "Bedrijfsrest"
+    updated_col_name: 'tag'
+    mapped_text: "food/student_restaurants"
+
+  - matching_col_name : 'description'
+    query: "Bedrijfsrest"
+    updated_col_name: 'short_description'
+    mapped_text: "Applied Sciences student restaurant"
+
+  - matching_col_name : 'description'
+    query: " FP Delft B.V."
+    updated_col_name: 'tag'
+    mapped_text: "food/student_restaurants"
+
+  - matching_col_name : 'description'
+    query: " FP Delft B.V."
+    updated_col_name: 'short_description'
+    mapped_text: "Fellowship student restaurant"
+
+  - matching_col_name : 'description'
+    query: "MAES HEKELGEM"
+    updated_col_name: 'tag'
+    mapped_text: "transportation/fuel"
+
+  - matching_col_name : 'description'
+    query: "MAES HEKELGEM"
+    updated_col_name: 'short_description'
+    mapped_text: "tanken maes"
+
+  - matching_col_name : 'description'
+    query: "GABRIEL"
+    updated_col_name: 'tag'
+    mapped_text: "transportation/fuel"
+
+  - matching_col_name : 'description'
+    query: "GABRIEL"
+    updated_col_name: 'short_description'
+    mapped_text: "tanken gabriel"
+
+  - matching_col_name : 'description'
+    query: "DUWOCON"
+    updated_col_name: 'tag'
+    mapped_text: "rent"
+
+  - matching_col_name : 'description'
+    query: "DUWOCON"
+    updated_col_name: 'short_description'
+    mapped_text: "DUWO huur"
+
+  - matching_col_name : 'description'
+    query: "BE12 0838 7886 7792"
+    updated_col_name: 'tag'
+    mapped_text: "from savings account"
+
+  - matching_col_name : 'description'
+    query: "Zilveren Kruis Zorgverzekeringen"
+    updated_col_name: 'short_description'
+    mapped_text: "Zilveren Kruis Zorgverzekering"
+
+  - matching_col_name : 'description'
+    query: "Zilveren Kruis Zorgverzekeringen"
+    updated_col_name: 'tag'
+    mapped_text: "insurance"
+
+overview:

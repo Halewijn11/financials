@@ -1,0 +1,5 @@
+ID,Date,Description,Currency,Amount,Type,Tags,Account,Status,Memo,IOU
+178997647,8/29/2022,rit naar Delft met Mathieu,EUR,-8,Expense,Parental refund / Transport,current account,Cleared, ,
+178252093,8/9/2022,toeristentaks Budva,EUR,-42.5,Expense,Parental refund,current account,Cleared, ,
+178122038,8/3/2022,trein van Antwerpen naar Liedekerke,EUR,-6.6,Expense,Parental refund / Transport,current account,Cleared, ,
+,,,,-57.1,,,,,,

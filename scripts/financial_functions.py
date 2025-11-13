@@ -8,9 +8,9 @@ import time
 import subprocess
 #from openpyxl.worksheet.datavalidation import DataValidation
 import re
-import variables
+# import variables
 import importlib
-variables = importlib.reload(variables)
+# variables = importlib.reload(variables)
 # import PyPDF2
 import yaml
 
@@ -20,9 +20,9 @@ def reload_libraries():
     variables = importlib.reload(variables)
     print('done')
 
-with open("./config.yml", "r") as f:
-    config = yaml.safe_load(f)
-rule_config = config['rules']
+# with open("./config.yml", "r") as f:
+#     config = yaml.safe_load(f)
+# rule_config = config['rules']
 
 def get_deposit_filename(filelist_df):
     """

@@ -1,0 +1,18 @@
+month_num_colname: 'month_num'
+income_categories:
+- income
+- income/parental_income
+- income/stocks_and_obligations
+
+plots:
+    spending_income_plot:
+        income_color: '#1f77b4'    # blue
+        spending_color: '#d62728'  # red
+        bargap: 10000000
+        plot_height: 300
+        show_net_balance: True
+        net_balance_color: '#636363'
+        bargap: 0.3
+        width: 600
+        height: 400
+        template: 'plotly_dark' #ggplot2, plotly_dark,presentation,xgridoff,ygridoff

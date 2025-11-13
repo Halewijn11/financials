@@ -1,0 +1,46 @@
+config_repo_path: '../config_repo/'
+streamlit_repo_path: "../.streamlit/"
+tempdir: '../temp/'
+month_num_colname: 'month_num'
+income_categories:
+- income
+- income/parental_income
+- income/stocks_obligations_loans
+- income/
+transfer_between_own_account_categories:
+- from savings account
+- to savings account
+refund_categories:
+- parental_refund
+- pending_refund
+- loan
+theme: 'remarkable'
+plots:
+    spending_income_plot:
+        income_color: '#1f77b4'    # blue
+        spending_color: '#d62728'  # red
+        bargap: 10000000
+        plot_height: 300
+        show_net_balance: True
+        net_balance_color: '#636363'
+        bargap: 0.3
+        width: 600
+        height: 400
+        template: 'plotly_dark' #ggplot2, plotly_dark,presentation,xgridoff,ygridoff
+    percentage_spend_by_category_plot: 
+        bar_colors: 
+            rent: "#3182bd"
+        bargap: 0.3
+        width: 600
+        height: 400
+        template: 'plotly_dark' #ggplot2, plotly_dark,presentation,xgridoff,ygridoff
+    metric_cards:
+        border: True
+        border_left_color: "#3d3a2a"
+        box_shadow: True
+        background_color: '#f0f0ec'
+    treemap_plot: 
+        maxdepth: 2
+        background_color: '#f0f0ec'
+    
+

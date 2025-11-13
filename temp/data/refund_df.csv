@@ -1,0 +1,36 @@
+Date,card,description,amount,tag,main tag,inverted_amount,absolute_amount,proof,month_number,main_tag,month
+2025-01-31,belfius_deposit,inschrijving mosbach colloqium,-150.0,pending_refund,,,,,1,pending_refund,2025-01
+2025-01-27,belfius_deposit,slagerij t'kint,-24.35,parental_refund,,,,,1,parental_refund,2025-01
+2025-01-27,belfius_deposit,Terugbetaling t kint 10 01 2025 Deel van de rekening - deel van meme,27.4,parental_refund,,,,,1,parental_refund,2025-01
+2025-01-20,belfius_deposit,slagerij t'kint,-19.75,parental_refund,,,,,1,parental_refund,2025-01
+2025-01-20,belfius_deposit,Terugbetaling t kint,19.75,parental_refund,,,,,1,parental_refund,2025-01
+2025-01-13,belfius_deposit,slagerij t'kint,-47.4,parental_refund,,,,,1,parental_refund,2025-01
+2025-01-03,belfius_mastercard,inschrijving congres,-420.0,pending_refund,,,,,1,pending_refund,2025-01
+2025-02-17,belfius_deposit,Terugbetaling t'Kint 24 Jan,24.35,parental_refund,,,,,2,parental_refund,2025-02
+2025-02-03,belfius_mastercard,ik denk het treinticket voor naar Parijs te gaan,-86.0,pending_refund,,,,,2,pending_refund,2025-02
+2025-02-03,belfius_mastercard,overnachting Parijs,-180.0,pending_refund,,,,,2,pending_refund,2025-02
+2025-03-31,belfius_deposit,slagerij t'kint,-5.2,parental_refund,,,,,3,parental_refund,2025-03
+2025-03-31,belfius_deposit,slagerij t'kint,-20.25,parental_refund,,,,,3,parental_refund,2025-03
+2025-03-19,belfius_deposit,T122488BVFR,504.0,pending_refund,,,,,3,pending_refund,2025-03
+2025-03-12,belfius_deposit,T123587BVDE,385.0,pending_refund,,,,,3,pending_refund,2025-03
+2025-05-14,belfius_deposit,T122488BDFR,203.4,pending_refund,,,,,5,pending_refund,2025-05
+2025-05-07,belfius_deposit,T123587BDDE,133.11,pending_refund,,,,,5,pending_refund,2025-05
+2025-06-27,belfius_deposit,"GP LS Krevet Aalst BE 51,60 EUR",-51.6,pending_refund,,,,,6,pending_refund,2025-06
+2025-06-25,belfius_deposit,cadeau vaderdag,-32.45,pending_refund,,,,,6,pending_refund,2025-06
+2025-06-11,belfius_deposit,T125218BDBE,68.31,pending_refund,,,,,6,pending_refund,2025-06
+2025-06-03,belfius_mastercard,Wovar raampjes,-913.23,parental_refund,,,,,6,parental_refund,2025-06
+2025-06-03,belfius_mastercard,tanken toen dat we op  retreat waren,-74.75,pending_refund,,,,,6,pending_refund,2025-06
+2025-07-07,belfius_deposit,Wero EEMAN FIEN,51.6,pending_refund,,,,,7,pending_refund,2025-07
+2025-07-04,belfius_mastercard,faceprints,-295.6,pending_refund,,,,,7,pending_refund,2025-07
+2025-08-25,belfius_deposit,tanken maes,-72.75,parental_refund,,,,,8,parental_refund,2025-08
+2025-08-04,belfius_mastercard,faceprints,44.34,pending_refund,,,,,8,pending_refund,2025-08
+2025-09-22,belfius_deposit,cafe kobus voor aswin's afscheid,-62.65,pending_refund,,,,,9,pending_refund,2025-09
+2025-09-18,belfius_deposit,smartphonehoesje papa,-31.99,parental_refund,,,,,9,parental_refund,2025-09
+2025-09-10,belfius_deposit,charlotte terugbetaling handdoek,31.5,pending_refund,,,,,9,pending_refund,2025-09
+2025-09-10,belfius_deposit,noor terugbetaling handdoek,31.5,pending_refund,,,,,9,pending_refund,2025-09
+2025-09-09,belfius_deposit,viktor terugbetaling handdoek,31.5,pending_refund,,,,,9,pending_refund,2025-09
+2025-09-09,belfius_deposit,Arne terugbetaling handdoek,31.5,pending_refund,,,,,9,pending_refund,2025-09
+2025-09-09,belfius_deposit,Tom terugbetaling handdoek,31.5,pending_refund,,,,,9,pending_refund,2025-09
+2025-09-05,belfius_deposit,peter t'kint,-21.1,parental_refund,,,,,9,parental_refund,2025-09
+2025-09-04,from_belfius_termijnrekening,STORTING KAPITAAL EN NETTO INTERESTEN VAN TERMIJNREKENING BE95 0552 4812 1258,13000.0,loan,,,,,9,loan,2025-09
+2025-09-03,belfius_mastercard,peter t'kint,-20.3,parental_refund,,,,,9,parental_refund,2025-09

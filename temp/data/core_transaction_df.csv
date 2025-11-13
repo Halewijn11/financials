@@ -1,0 +1,445 @@
+Date,card,description,amount,tag,main tag,inverted_amount,absolute_amount,proof,month_number,main_tag,month
+2025-01-31,belfius_deposit,eten X,-7.0,food/student_restaurants,,7.0,,,1,food,2025-01
+2025-01-30,belfius_deposit,jumbo boodschappen,-10.73,food/groceries,,10.73,,,1,food,2025-01
+2025-01-28,belfius_deposit,jumbo boodschappen,-12.19,food/groceries,,12.19,,,1,food,2025-01
+2025-01-28,belfius_deposit,Applied Sciences student restaurant,-4.5,food/student_restaurants,,4.5,,,1,food,2025-01
+2025-01-27,belfius_deposit,kinepolis,-15.4,entertainment,,15.4,,,1,entertainment,2025-01
+2025-01-27,belfius_deposit,snelle sportschoenen,-143.96,sports,,143.96,,,1,sports,2025-01
+2025-01-27,belfius_deposit,parkeerticket kinepolis,-2.0,entertainment,,2.0,,,1,entertainment,2025-01
+2025-01-27,belfius_deposit,babbelaer Aalst,-5.2,entertainment/drinks,,5.2,,,1,entertainment,2025-01
+2025-01-27,belfius_deposit,tanken maes,-46.51,transportation/fuel,,46.51,,,1,transportation,2025-01
+2025-01-27,belfius_deposit,kinepolis parking,-4.5,entertainment,,4.5,,,1,entertainment,2025-01
+2025-01-27,belfius_deposit,BANCONTACT AANKOOP - HUBO AALST ALBRECHTLAA - 9300 AALST BE - 25/01/25 16:56 - CONTACTLESS - KAART 5169 20XX XXXX 0753,-51.78,unknown,,51.78,,,1,unknown,2025-01
+2025-01-24,belfius_deposit,tanken daar in Antwerpen,-16.59,transportation/fuel,,16.59,,,1,transportation,2025-01
+2025-01-24,belfius_deposit,salaris januari 2025,2509.71,income,,-2509.71,,,1,income,2025-01
+2025-01-23,belfius_deposit,jumbo boodschappen,-8.08,food/groceries,,8.08,,,1,food,2025-01
+2025-01-22,belfius_deposit,Applied Sciences student restaurant,-4.25,food/student_restaurants,,4.25,,,1,food,2025-01
+2025-01-21,belfius_deposit,Applied Sciences student restaurant,-4.95,food/student_restaurants,,4.95,,,1,food,2025-01
+2025-01-20,belfius_deposit,"GP Babbelaer Aalst BE 9,20 EUR KAART NR 5169 2010 7988 0753",-9.2,entertainment/drinks,,9.2,,,1,entertainment,2025-01
+2025-01-20,belfius_deposit,lidl boodschappen,-70.71,food/groceries,,70.71,,,1,food,2025-01
+2025-01-20,belfius_deposit,BANCONTACT AANKOOP BRANDSTOF - MAES HEKELGEM - 1790 HEKELGEM BE - 17/01/25 20:03 - KAART 5169 20XX XXXX 0753,-45.79,transportation/fuel,,45.79,,,1,transportation,2025-01
+2025-01-16,belfius_deposit,jumbo boodschappen,-0.88,food/groceries,,0.88,,,1,food,2025-01
+2025-01-16,belfius_deposit,jumbo boodschappen,-2.37,food/groceries,,2.37,,,1,food,2025-01
+2025-01-16,belfius_deposit,jumbo boodschappen,-2.12,food/groceries,,2.12,,,1,food,2025-01
+2025-01-15,belfius_deposit,"GP BCK* Inter IKEA Systems DELFT NL 112,91 EUR KAART NR 5169 2010 7988 0753",-112.91,other,,112.91,,,1,other,2025-01
+2025-01-15,belfius_deposit,"GP L663 JYSK DELFT NL 17,50 EUR",-17.5,other,,17.5,,,1,other,2025-01
+2025-01-15,belfius_deposit,"GP LeenBakker Delft DELFT NL 15,99 EUR",-15.99,other,,15.99,,,1,other,2025-01
+2025-01-14,belfius_deposit,jumbo boodschappen,-12.31,food/groceries,,12.31,,,1,food,2025-01
+2025-01-14,belfius_deposit,Applied Sciences student restaurant,-4.5,food/student_restaurants,,4.5,,,1,food,2025-01
+2025-01-13,belfius_deposit,drinkske met de vrienden int vissershof,-8.0,entertainment/drinks,,8.0,,,1,entertainment,2025-01
+2025-01-13,belfius_deposit,"GP LSP* Mister Spaghetti A Aalst BE 44,45 EUR KAART NR 5169 2010 7988 0753",-44.45,food/restaurants,,44.45,,,1,food,2025-01
+2025-01-13,belfius_deposit,"GP NV PARKEN ASSE ASSE BE 1,10 EUR KAART NR 5169 2010 7988 0753",-1.1,transportation,,1.1,,,1,transportation,2025-01
+2025-01-13,belfius_deposit,"GP KRUIDVAT 8389 ASSE ASSE BE 12,48 EUR KAART NR 5169 2010 7988 0753",-12.48,food/groceries,,12.48,,,1,food,2025-01
+2025-01-13,belfius_deposit,autokeuring,-45.1,transportation,,45.1,,,1,transportation,2025-01
+2025-01-13,belfius_deposit,broodsnijmachine denk ik,-55.2,other,,55.2,,,1,other,2025-01
+2025-01-10,belfius_deposit,tanken gabriel,-27.0,transportation/fuel,,27.0,,,1,transportation,2025-01
+2025-01-10,belfius_deposit,tanken maes,-45.69,transportation/fuel,,45.69,,,1,transportation,2025-01
+2025-01-09,belfius_deposit,jumbo boodschappen,-12.87,food/groceries,,12.87,,,1,food,2025-01
+2025-01-08,belfius_deposit,Applied Sciences student restaurant,-3.95,food/student_restaurants,,3.95,,,1,food,2025-01
+2025-01-07,belfius_deposit,ikea delft,-10.49,other,,10.49,,,1,other,2025-01
+2025-01-07,belfius_deposit,ikea delft,-35.42,other,,35.42,,,1,other,2025-01
+2025-01-07,belfius_deposit,jumbo boodschappen,-11.54,food/groceries,,11.54,,,1,food,2025-01
+2025-01-07,belfius_deposit,DUWO huur,-228.28,rent,,228.28,,,1,rent,2025-01
+2025-01-06,belfius_deposit,jobbonus,95.94,other,,-95.94,,,1,other,2025-01
+2025-01-06,belfius_deposit,Beste wensen voor 2025 aan Halewijn en Liese,350.0,income/parental_income,,-350.0,,,1,income,2025-01
+2025-01-06,belfius_deposit,BRAM FIERENS,12.5,other,,-12.5,,,1,other,2025-01
+2025-01-06,belfius_deposit,Van Handenhove Brecht,12.5,other,,-12.5,,,1,other,2025-01
+2025-01-06,belfius_deposit,tanken maes,-37.46,transportation/fuel,,37.46,,,1,transportation,2025-01
+2025-01-03,belfius_deposit,Iets in het hotel Fiesch maar weet niet meer wat,-16.21,entertainment/drinks,,16.21,,,1,entertainment,2025-01
+2025-01-03,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,1,entertainment,2025-01
+2025-01-02,belfius_deposit,Gelukkig nieuwjaar,80.0,income/parental_income,,-80.0,,,1,income,2025-01
+2025-01-02,belfius_deposit,Choco,5.5,entertainment/drinks,,-5.5,,,1,entertainment,2025-01
+2025-01-02,belfius_deposit,Wero ANTOIN EMMA,4.51,entertainment/drinks,,-4.51,,,1,entertainment,2025-01
+2025-02-27,belfius_deposit,ikea,-79.91,other,,79.91,,,2,other,2025-02
+2025-02-27,belfius_deposit,ikea,-9.27,other,,9.27,,,2,other,2025-02
+2025-02-26,belfius_deposit,jumbo boodschappen,-20.09,food/groceries,,20.09,,,2,food,2025-02
+2025-02-25,belfius_deposit,zakgeld meme pepe,25.0,income/parental_income,,-25.0,,,2,income,2025-02
+2025-02-25,belfius_deposit,tanken affligem,-16.76,transportation/fuel,,16.76,,,2,transportation,2025-02
+2025-02-25,belfius_deposit,Applied Sciences student restaurant,-2.4,food/student_restaurants,,2.4,,,2,food,2025-02
+2025-02-25,belfius_deposit,bijles,100.0,income,,-100.0,,,2,income,2025-02
+2025-02-25,belfius_deposit,Eten karaokeavond,-29.5,entertainment,,29.5,,,2,entertainment,2025-02
+2025-02-24,belfius_deposit,Nieuwjaar loterij,10.0,income,,-10.0,,,2,income,2025-02
+2025-02-24,belfius_deposit,tanken erpe-mere,-35.44,transportation/fuel,,35.44,,,2,transportation,2025-02
+2025-02-24,belfius_deposit,tanken erpe-mere,-13.94,transportation/fuel,,13.94,,,2,transportation,2025-02
+2025-02-24,belfius_deposit,Salaris Februari 2025,2509.71,income/parental_income,,-2509.71,,,2,income,2025-02
+2025-02-24,belfius_deposit,bijles,50.0,income,,-50.0,,,2,income,2025-02
+2025-02-24,belfius_deposit,DUWO huur,-721.1,rent,,721.1,,,2,rent,2025-02
+2025-02-24,belfius_deposit,Waterpretpark,-23.0,trips/escala_2024,,23.0,,,2,trips,2025-02
+2025-02-24,belfius_deposit,Cadeau Paulien,-15.0,gifts,,15.0,,,2,gifts,2025-02
+2025-02-21,belfius_deposit,veplaatsingsonkosten kazou,71.1,transportation/fuel,,-71.1,,,2,transportation,2025-02
+2025-02-20,belfius_deposit,jumbo boodschappen,-15.88,food/groceries,,15.88,,,2,food,2025-02
+2025-02-20,belfius_deposit,jumbo boodschappen,-2.19,food/groceries,,2.19,,,2,food,2025-02
+2025-02-18,belfius_deposit,temu voor Carnaval,-39.85,other/carnaval_aalst,,39.85,,,2,other,2025-02
+2025-02-17,belfius_deposit,Brico Carnaval,-115.34,other/carnaval_aalst,,115.34,,,2,other,2025-02
+2025-02-17,belfius_deposit,lidl boodschappen,-51.81,food/groceries,,51.81,,,2,food,2025-02
+2025-02-17,belfius_deposit,Brico Carnaval,-16.49,other/carnaval_aalst,,16.49,,,2,other,2025-02
+2025-02-17,belfius_deposit,tanken maes,-50.2,transportation/fuel,,50.2,,,2,transportation,2025-02
+2025-02-17,belfius_deposit,Brico Carnaval,-71.46,other/carnaval_aalst,,71.46,,,2,other,2025-02
+2025-02-17,belfius_deposit,Action Carnaval,-5.17,other/carnaval_aalst,,5.17,,,2,other,2025-02
+2025-02-17,belfius_deposit,Action Carnaval,-2.97,other/carnaval_aalst,,2.97,,,2,other,2025-02
+2025-02-17,belfius_deposit,terugbetaling elias van den action,5.17,other,,-5.17,,,2,other,2025-02
+2025-02-17,belfius_deposit,bijles phyllis,25.0,income,,-25.0,,,2,income,2025-02
+2025-02-17,belfius_deposit,Hubo Carnaval,-58.74,other/carnaval_aalst,,58.74,,,2,other,2025-02
+2025-02-17,belfius_deposit,temu voor Carnaval,-61.17,other/carnaval_aalst,,61.17,,,2,other,2025-02
+2025-02-14,belfius_deposit,jumbo boodschappen,-16.82,food/groceries,,16.82,,,2,food,2025-02
+2025-02-14,belfius_deposit,DUWO huur,-224.71,rent,,224.71,,,2,rent,2025-02
+2025-02-13,belfius_deposit,Eten + taart,-29.5,food/restaurants,,29.5,,,2,food,2025-02
+2025-02-13,belfius_deposit,jumbo boodschappen,-7.7,food/groceries,,7.7,,,2,food,2025-02
+2025-02-11,belfius_deposit,Eetfestijn,-18.0,food/restaurants,,18.0,,,2,food,2025-02
+2025-02-10,belfius_deposit,jumbo boodschappen,-15.29,food/groceries,,15.29,,,2,food,2025-02
+2025-02-10,belfius_deposit,tanken Erpe-mere,-46.77,transportation/fuel,,46.77,,,2,transportation,2025-02
+2025-02-10,belfius_deposit,Delhaize Bambrugge,-2.97,food/groceries,,2.97,,,2,food,2025-02
+2025-02-10,belfius_deposit,tanken Erpe-mere,-3.35,transportation/fuel,,3.35,,,2,transportation,2025-02
+2025-02-10,belfius_deposit,Babbelaar,-5.2,entertainment/drinks,,5.2,,,2,entertainment,2025-02
+2025-02-10,belfius_deposit,Rugzak,-91.0,unforesceen_expenses,,91.0,,,2,unforesceen_expenses,2025-02
+2025-02-10,belfius_deposit,Pintjen,-3.0,entertainment/drinks,,3.0,,,2,entertainment,2025-02
+2025-02-10,belfius_deposit,Mozart,-30.16,food/restaurants,,30.16,,,2,food,2025-02
+2025-02-04,belfius_deposit,jumbo boodschappen,-2.62,food/groceries,,2.62,,,2,food,2025-02
+2025-02-04,belfius_deposit,Fellowship studentenrestaurant,-12.0,food/student_restaurants,,12.0,,,2,food,2025-02
+2025-02-03,belfius_deposit,tanken maes,-46.19,transportation/fuel,,46.19,,,2,transportation,2025-02
+2025-02-03,belfius_deposit,parking de burcht,-8.1,transportation,,8.1,,,2,transportation,2025-02
+2025-02-03,belfius_deposit,cafe safir,-5.6,entertainment,,5.6,,,2,entertainment,2025-02
+2025-02-03,belfius_mastercard,phillips hue lampen,-153.57,other,,153.57,,,2,other,2025-02
+2025-02-03,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,2,entertainment,2025-02
+2025-02-03,belfius_deposit,UZ Gent hersenschudding kosten,-54.77,unforesceen_expenses,,54.77,,,2,unforesceen_expenses,2025-02
+2025-02-03,belfius_deposit,Parking de burcht,-4.5,transportation,,4.5,,,2,transportation,2025-02
+2025-02-03,belfius_deposit,Parking Burcht,8.1,transportation,,-8.1,,,2,transportation,2025-02
+2025-03-31,belfius_deposit,parking Gent tijdens marathon,-26.08,transportation,,26.08,,,3,transportation,2025-03
+2025-03-27,belfius_deposit,terugbetaling milan baeas,54.64,other/carnaval_aalst,,-54.64,,,3,other,2025-03
+2025-03-27,belfius_deposit,jumbo boodschappen,-5.18,food/groceries,,5.18,,,3,food,2025-03
+2025-03-27,belfius_deposit,Carnaval van michiel matthijs,4.99,other/carnaval_aalst,,-4.99,,,3,other,2025-03
+2025-03-27,belfius_deposit,carnaval van victor comhaire,25.6,other/carnaval_aalst,,-25.6,,,3,other,2025-03
+2025-03-27,belfius_deposit,Etentje van de Lund groep,-5.0,food/groceries,,5.0,,,3,food,2025-03
+2025-03-25,belfius_deposit,jumbo boodschappen,-13.19,food/groceries,,13.19,,,3,food,2025-03
+2025-03-25,belfius_deposit,Lin,50.0,income,,-50.0,,,3,income,2025-03
+2025-03-24,belfius_deposit,tanken maes,-44.23,transportation/fuel,,44.23,,,3,transportation,2025-03
+2025-03-24,belfius_deposit,DUWO huur,-361.55,rent,,361.55,,,3,rent,2025-03
+2025-03-24,belfius_deposit,Kebab Mosbach,-8.0,food/groceries,,8.0,,,3,food,2025-03
+2025-03-24,belfius_deposit,eten mosbatch,-19.6,food/groceries,,19.6,,,3,food,2025-03
+2025-03-24,belfius_deposit,drinks mosbach,-20.9,entertainment/drinks,,20.9,,,3,entertainment,2025-03
+2025-03-24,belfius_deposit,Salaris Maart 2025,2509.71,income,,-2509.71,,,3,income,2025-03
+2025-03-24,belfius_deposit,Cadeau mama en papa (weet niet wat dit was),-25.5,gifts,,25.5,,,3,gifts,2025-03
+2025-03-24,belfius_deposit,Nacho nacho bij jolien boterberg,-13.56,food/groceries,,13.56,,,3,food,2025-03
+2025-03-24,belfius_deposit,bijles phyllis,35.0,income,,-35.0,,,3,income,2025-03
+2025-03-21,belfius_deposit,mosbach kebab,-13.0,food/groceries,,13.0,,,3,food,2025-03
+2025-03-21,belfius_deposit,mosbach kebab,-8.0,food/groceries,,8.0,,,3,food,2025-03
+2025-03-21,belfius_deposit,iets om te eten aan een station waarschijnlijk,-3.99,food/groceries,,3.99,,,3,food,2025-03
+2025-03-20,belfius_deposit,"GP Esso Station Bad Rappe Bad Rappenau DE 69,12 EUR KAART NR 5169 2010 7988 0753",-69.12,transportation/fuel,,69.12,,,3,transportation,2025-03
+2025-03-18,belfius_deposit,jumbo boodschappen,-14.27,food/groceries,,14.27,,,3,food,2025-03
+2025-03-18,belfius_deposit,Applied Sciences student restaurant,-4.5,food/student_restaurants,,4.5,,,3,food,2025-03
+2025-03-18,belfius_deposit,Weekend zutendaal,-50.0,trips,,50.0,,,3,trips,2025-03
+2025-03-18,belfius_deposit,Karting,-46.0,entertainment,,46.0,,,3,entertainment,2025-03
+2025-03-17,belfius_deposit,tanken maes,-33.23,transportation/fuel,,33.23,,,3,transportation,2025-03
+2025-03-17,belfius_deposit,frisbee zutendaal haha,-1.95,other,,1.95,,,3,other,2025-03
+2025-03-14,belfius_deposit,DUWO eindafrekening,2016.78,rent,,-2016.78,,,3,rent,2025-03
+2025-03-14,belfius_deposit,jumbo boodschappen,-5.86,food/groceries,,5.86,,,3,food,2025-03
+2025-03-13,belfius_deposit,eten at X,-11.3,food/student_restaurants,,11.3,,,3,food,2025-03
+2025-03-12,belfius_deposit,tanken maes,-78.38,transportation/fuel,,78.38,,,3,transportation,2025-03
+2025-03-10,belfius_deposit,aperoni aalst,-6.1,entertainment/drinks,,6.1,,,3,entertainment,2025-03
+2025-03-10,belfius_deposit,"overschrijving van lise, weet niet voor wat",9.0,unknown,,-9.0,,,3,unknown,2025-03
+2025-03-06,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,3,entertainment,2025-03
+2025-03-06,belfius_deposit,jumbo boodschappen,-6.38,food/groceries,,6.38,,,3,food,2025-03
+2025-03-06,belfius_deposit,jumbo boodschappen,-8.19,food/groceries,,8.19,,,3,food,2025-03
+2025-03-06,belfius_deposit,Applied Sciences student restaurant,-1.95,food/student_restaurants,,1.95,,,3,food,2025-03
+2025-03-05,belfius_deposit,Bureau,-180.0,other,,180.0,,,3,other,2025-03
+2025-03-04,belfius_deposit,zakgeld meme pepe,25.0,income/parental_income,,-25.0,,,3,income,2025-03
+2025-03-03,belfius_deposit,tanken gabriel,-50.1,transportation/fuel,,50.1,,,3,transportation,2025-03
+2025-03-03,belfius_deposit,carnaval aalst cake enzo,-25.5,other/carnaval_aalst,,25.5,,,3,other,2025-03
+2025-03-03,belfius_deposit,Drinkskes naar Kato voor Avondje in Gent,-14.9,entertainment/drinks,,14.9,,,3,entertainment,2025-03
+2025-03-03,belfius_deposit,verzekering auto,-248.12,transportation,,248.12,,,3,transportation,2025-03
+2025-03-03,belfius_deposit,Lise De Koster,-10.0,unknown,,10.0,,,3,unknown,2025-03
+2025-04-30,belfius_deposit,jumbo boodschappen,-9.1,food/groceries,,9.1,,,4,food,2025-04
+2025-04-30,belfius_deposit,Applied Sciences student restaurant,-10.35,food/student_restaurants,,10.35,,,4,food,2025-04
+2025-04-28,belfius_deposit,tanken maes,-31.55,transportation/fuel,,31.55,,,4,transportation,2025-04
+2025-04-28,belfius_deposit,eetcafee de ruif,-14.5,entertainment/drinks,,14.5,,,4,entertainment,2025-04
+2025-04-28,belfius_deposit,"GP Moeke Delft DELFT NL 10,80 EUR",-10.8,food/restaurants,,10.8,,,4,food,2025-04
+2025-04-28,belfius_deposit,broodje delft,-5.5,food,,5.5,,,4,food,2025-04
+2025-04-28,belfius_deposit,Belvedere Delft,-12.75,entertainment/drinks,,12.75,,,4,entertainment,2025-04
+2025-04-28,belfius_deposit,Eten Parijs,-33.0,food,,33.0,,,4,food,2025-04
+2025-04-25,belfius_deposit,Zalig Pasen aan Halewijn en Lise,100.0,income/parental_income,,-100.0,,,4,income,2025-04
+2025-04-24,belfius_deposit,UW EUROPESE DOMICILIERING 1240000899198 VOOR Zilveren Kruis Zorgverzekeringen NV MEDEDELING: Premie Zilveren Kruis Relatienummer 190263711 Periode 01-05-2025 - 01-06-2025 SCHULDEISERSREFERTE: 415038610141,-149.5,insurance,,149.5,,,4,insurance,2025-04
+2025-04-24,belfius_deposit,Salaris April 2025,2509.71,income,,-2509.71,,,4,income,2025-04
+2025-04-24,belfius_deposit,Applied Sciences student restaurant,-4.5,food/student_restaurants,,4.5,,,4,food,2025-04
+2025-04-23,belfius_deposit,jumbo boodschappen,-12.22,food/groceries,,12.22,,,4,food,2025-04
+2025-04-22,belfius_deposit,"Mercikes eee: overschrijving naar Emma, maar denk bbq",-9.3,food/groceries,,9.3,,,4,food,2025-04
+2025-04-22,belfius_deposit,Limoncello: van lise maar weet niet waarom,28.5,unknown,,-28.5,,,4,unknown,2025-04
+2025-04-16,belfius_deposit,jumbo boodschappen,-4.7,food/groceries,,4.7,,,4,food,2025-04
+2025-04-16,belfius_deposit,5002.4000.4166.9665,-214.28,insurance,,214.28,,,4,insurance,2025-04
+2025-04-16,belfius_deposit,jumbo boodschappen,-3.96,food/groceries,,3.96,,,4,food,2025-04
+2025-04-16,belfius_deposit,tanken maes,-60.03,transportation/fuel,,60.03,,,4,transportation,2025-04
+2025-04-15,belfius_deposit,Applied Sciences student restaurant,-10.35,food/student_restaurants,,10.35,,,4,food,2025-04
+2025-04-14,belfius_deposit,transport parijs,-5.0,transport/public_transport,,5.0,,,4,transport,2025-04
+2025-04-14,belfius_deposit,transport parijs,-2.5,transport/public_transport,,2.5,,,4,transport,2025-04
+2025-04-14,belfius_deposit,"GP RATP PARIS FR 2,50 EUR - Van den Bossche H",-2.5,transport/public_transport,,2.5,,,4,transport,2025-04
+2025-04-14,belfius_deposit,laatste avond congres parijs drinken,-13.0,entertainment/drinks,,13.0,,,4,entertainment,2025-04
+2025-04-14,belfius_deposit,"GP CGF17283BARA1 PARIS FR 3,95 EUR KAART NR 5169 2010 7988 0753",-3.95,unknown,,3.95,,,4,unknown,2025-04
+2025-04-14,belfius_deposit,carnaval van yoram,15.16,other/carnaval_aalst,,-15.16,,,4,other,2025-04
+2025-04-14,belfius_deposit,BANCONTACT AANKOOP - SNCBPPSEWEBPROD - 1060 BRUSSEL BE - 12/04/25 13:25 - VIA INTERNET - KAART 5169 20XX XXXX 0753,-7.7,trips/parijs_2025,,7.7,,,4,trips,2025-04
+2025-04-14,belfius_deposit,BANCONTACT AANKOOP - SNCBPPSEWEBPROD - 1060 BRUSSEL BE - 12/04/25 07:15 - VIA INTERNET - KAART 5169 20XX XXXX 0753,-7.7,trips/parijs_2025,,7.7,,,4,trips,2025-04
+2025-04-14,belfius_deposit,KOSTEN OP NIET-UITGEVOERDE ORDER(S) fkn belfius,-6.95,unforesceen_expenses,,6.95,,,4,unforesceen_expenses,2025-04
+2025-04-14,belfius_deposit,BANCONTACT AANKOOP - NMBS SNCB APP BRUSSEL - 1060 BRUSSEL BRU BE - 11/04/25 22:06 - VIA INTERNET - KAART 5169 20XX XXXX 0753,-5.5,transport/public_transport,,5.5,,,4,transport,2025-04
+2025-04-11,belfius_deposit,"GP BOULANGERIE SEC PARIS 15 FR 4,25 EUR KAART NR 5169 2010 7988 0753",-4.25,food,,4.25,,,4,food,2025-04
+2025-04-11,belfius_deposit,"GP SARAH PARIS FR 11,00 EUR - Van den Bossche H",-11.0,unknown,,11.0,,,4,unknown,2025-04
+2025-04-10,belfius_deposit,bakkerij parijs,-3.9,food,,3.9,,,4,food,2025-04
+2025-04-09,belfius_deposit,notre dame kaars,-2.0,other,,2.0,,,4,other,2025-04
+2025-04-09,belfius_deposit,cafeken,-3.6,other,,3.6,,,4,other,2025-04
+2025-04-09,belfius_deposit,"DEBITMASTERCARD-GELDOPNEMING 08/04 PARIS PASTEUR PARIS FR 50,00 EUR - Van den Bossche H",-50.0,other,,50.0,,,4,other,2025-04
+2025-04-09,belfius_deposit,"GP SC. REST NATYKAS PARIS FR 10,00 EUR KAART NR 5169 2010 7988 0753",-10.0,food,,10.0,,,4,food,2025-04
+2025-04-08,belfius_deposit,"DEBITMASTERCARD-BETALING 07/04 RATP PARIS FR 4,50 EUR",-4.5,transport/public_transport,,4.5,,,4,transport,2025-04
+2025-04-08,belfius_deposit,"DEBITMASTERCARD-BETALING 07/04 3 DUCKS HOSTEL PARIS FR 10,40 EUR - Van den Bossche H",-10.4,trips/parijs_2025,,10.4,,,4,trips,2025-04
+2025-04-08,belfius_deposit,"GP IKEA RIVOLI PARIS FR 2,49 EUR",-2.49,food/student_restaurants,,2.49,,,4,food,2025-04
+2025-04-08,belfius_deposit,"GP SARL GOLDEN PARIS FR 11,80 EUR",-11.8,unknown,,11.8,,,4,unknown,2025-04
+2025-04-07,belfius_deposit,tanken maes,-90.76,transportation/fuel,,90.76,,,4,transportation,2025-04
+2025-04-07,belfius_deposit,BANCONTACT AANKOOP - NMBS SNCB APP BRUSSEL - 1060 BRUSSEL BRU BE - 07/04/25 06:52 - VIA INTERNET - KAART 5169 20XX XXXX 0753,-5.5,transport/public_transport,,5.5,,,4,transport,2025-04
+2025-04-07,belfius_deposit,BANCONTACT AANKOOP - DEPICO BVBA - 2630 AARTSELAAR BE - 05/04/25 20:59 - CONTACTLESS - KAART 5169 20XX XXXX 0753,-22.6,unknown,,22.6,,,4,unknown,2025-04
+2025-04-07,belfius_deposit,Bonnen dancewaves optreden van Lise,-7.2,entertainment/drinks,,7.2,,,4,entertainment,2025-04
+2025-04-07,belfius_deposit,Bonnen dancewaves optreden van Lise,-6.0,entertainment/drinks,,6.0,,,4,entertainment,2025-04
+2025-04-07,belfius_deposit,BANCONTACT APP OF MOBILE BANKING APP - ALFRED P2P MOBILE - 05/04/25 00:18 - KAART 5169 20XX XXXX 0753 - Van den Bossche H,-10.0,unknown,,10.0,,,4,unknown,2025-04
+2025-04-07,belfius_deposit,scouts en gidsen pajotten,-4.0,unknown,,4.0,,,4,unknown,2025-04
+2025-04-04,belfius_deposit,bar het lab,-1.0,entertainment/drinks,,1.0,,,4,entertainment,2025-04
+2025-04-04,belfius_deposit,jumbo boodschappen,-1.0,food/groceries,,1.0,,,4,food,2025-04
+2025-04-03,belfius_deposit,jumbo boodschappen,-18.29,food/groceries,,18.29,,,4,food,2025-04
+2025-04-03,belfius_deposit,jumbo boodschappen,-3.78,food/groceries,,3.78,,,4,food,2025-04
+2025-04-03,belfius_mastercard,airbnb,-224.8,trips/mosbach_2025,,224.8,,,4,trips,2025-04
+2025-04-03,belfius_mastercard,transport mosbatch,-12.1,trips/mosbach_2025,,12.1,,,4,trips,2025-04
+2025-04-03,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,4,entertainment,2025-04
+2025-04-03,belfius_deposit,KOSTEN OP NIET-UITGEVOERDE ORDER(S) fkn belfius,-6.95,unforesceen_expenses,,6.95,,,4,unforesceen_expenses,2025-04
+2025-04-02,belfius_deposit,Vanwege. Meme en Pepe .,25.0,income/parental_income,,-25.0,,,4,income,2025-04
+2025-04-01,belfius_deposit,tanken erpe-mere,-15.28,transportation/fuel,,15.28,,,4,transportation,2025-04
+2025-04-01,belfius_deposit,jumbo boodschappen,-12.27,food/groceries,,12.27,,,4,food,2025-04
+2025-05-27,belfius_deposit,jumbo boodschappen,-25.33,food/groceries,,25.33,,,5,food,2025-05
+2025-05-27,belfius_deposit,jumbo boodschappen,-19.84,food/groceries,,19.84,,,5,food,2025-05
+2025-05-27,belfius_deposit,Lin,25.0,income,,-25.0,,,5,income,2025-05
+2025-05-26,belfius_deposit,Zilveren Kruis Zorgverzekering,-149.5,insurance,,149.5,,,5,insurance,2025-05
+2025-05-26,belfius_deposit,DUWO huur,-361.55,rent,,361.55,,,5,rent,2025-05
+2025-05-23,belfius_deposit,Salaris Mei 2025,3559.01,income,,-3559.01,,,5,income,2025-05
+2025-05-23,belfius_deposit,jumbo boodschappen,-1.0,food/groceries,,1.0,,,5,food,2025-05
+2025-05-22,belfius_deposit,Applied Sciences student restaurant,-10.35,food/student_restaurants,,10.35,,,5,food,2025-05
+2025-05-21,belfius_deposit,jumbo boodschappen,-7.76,food/groceries,,7.76,,,5,food,2025-05
+2025-05-20,belfius_deposit,jumbo boodschappen,-28.97,food/groceries,,28.97,,,5,food,2025-05
+2025-05-20,belfius_deposit,Lin,25.0,income,,-25.0,,,5,income,2025-05
+2025-05-20,belfius_deposit,Fietsdagje met Michiel,-27.0,sports,,27.0,,,5,sports,2025-05
+2025-05-19,belfius_deposit,tanken maes,-87.31,transportation/fuel,,87.31,,,5,transportation,2025-05
+2025-05-19,belfius_deposit,bijles phyllis,50.0,income,,-50.0,,,5,income,2025-05
+2025-05-19,belfius_deposit,Weekendje Luxemburg,159.5,trips/luxemburg_2025,,-159.5,,,5,trips,2025-05
+2025-05-19,belfius_deposit,social deal overnachting luxemburg,-319.0,trips/luxemburg_2025,,319.0,,,5,trips,2025-05
+2025-05-16,belfius_deposit,tanken kruibeke,-10.0,transportation/fuel,,10.0,,,5,transportation,2025-05
+2025-05-16,belfius_deposit,eten zoo Rotterdam,-7.95,food,,7.95,,,5,food,2025-05
+2025-05-15,belfius_deposit,jumbo boodschappen,-14.74,food/groceries,,14.74,,,5,food,2025-05
+2025-05-14,belfius_deposit,jumbo boodschappen,-1.39,food/groceries,,1.39,,,5,food,2025-05
+2025-05-14,belfius_deposit,Pizzaa,-14.99,food/restaurants,,14.99,,,5,food,2025-05
+2025-05-12,belfius_deposit,Ijsje en drankjes,-14.05,food/restaurants,,14.05,,,5,food,2025-05
+2025-05-12,belfius_deposit,Ijsje en drankjes,-14.0,entertainment/drinks,,14.0,,,5,entertainment,2025-05
+2025-05-12,belfius_deposit,BANCONTACT APP OF MOBILE BANKING APP - GUY P2P MOBILE - 09/05/25 22:51 - KAART 5169 20XX XXXX 0753,-13.8,unknown,,13.8,,,5,unknown,2025-05
+2025-05-08,belfius_deposit,jumbo boodschappen,-16.26,food/groceries,,16.26,,,5,food,2025-05
+2025-05-06,belfius_deposit,marathon ticket budapest,-95.0,sports,,95.0,,,5,sports,2025-05
+2025-05-05,belfius_deposit,apero time,3.0,entertainment/drinks,,-3.0,,,5,entertainment,2025-05
+2025-05-05,belfius_deposit,apero time,-5.0,entertainment/drinks,,5.0,,,5,entertainment,2025-05
+2025-05-05,belfius_deposit,apero time,-11.5,entertainment/drinks,,11.5,,,5,entertainment,2025-05
+2025-05-05,belfius_deposit,apero time,-9.0,entertainment/drinks,,9.0,,,5,entertainment,2025-05
+2025-05-05,belfius_deposit,apero time,3.0,entertainment/drinks,,-3.0,,,5,entertainment,2025-05
+2025-05-05,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,5,entertainment,2025-05
+2025-05-05,belfius_mastercard,limoncello,-59.0,food/restaurants,,59.0,,,5,food,2025-05
+2025-05-05,belfius_mastercard,horta ternat,-12.4,food/groceries,,12.4,,,5,food,2025-05
+2025-05-05,belfius_mastercard,dott bike ride,-3.0,transportation,,3.0,,,5,transportation,2025-05
+2025-05-05,belfius_mastercard,dott pass,-3.99,transportation,,3.99,,,5,transportation,2025-05
+2025-05-05,belfius_deposit,zakgeld meme pepe,25.0,income/parental_income,,-25.0,,,5,income,2025-05
+2025-05-05,belfius_deposit,Pasen van meme en pepe,-50.0,income/parental_income,,50.0,,,5,income,2025-05
+2025-05-05,belfius_deposit,DUWO huur,-361.55,rent,,361.55,,,5,rent,2025-05
+2025-05-02,belfius_deposit,basic italian,-9.0,food/restaurants,,9.0,,,5,food,2025-05
+2025-06-30,belfius_deposit,lidl boodschappen,-21.05,food/groceries,,21.05,,,6,food,2025-06
+2025-06-30,belfius_deposit,ijsjes,-6.6,food,,6.6,,,6,food,2025-06
+2025-06-30,belfius_deposit,etentje met lise mister spaghetti,-48.8,food,,48.8,,,6,food,2025-06
+2025-06-30,belfius_deposit,bakkerij Verleysen,-9.0,food,,9.0,,,6,food,2025-06
+2025-06-27,belfius_deposit,Applied Sciences student restaurant,-9.85,food/student_restaurants,,9.85,,,6,food,2025-06
+2025-06-26,belfius_deposit,Applied Sciences student restaurant,-3.5,food/student_restaurants,,3.5,,,6,food,2025-06
+2025-06-26,belfius_deposit,Applied Sciences student restaurant,-3.5,food/student_restaurants,,3.5,,,6,food,2025-06
+2025-06-26,belfius_deposit,jumbo boodschappen,-3.8,food/groceries,,3.8,,,6,food,2025-06
+2025-06-25,belfius_deposit,jumbo boodschappen,-14.43,food/groceries,,14.43,,,6,food,2025-06
+2025-06-24,belfius_deposit,jumbo boodschappen,-40.93,food/groceries,,40.93,,,6,food,2025-06
+2025-06-24,belfius_deposit,Zilveren Kruis Zorgverzekering,-149.5,insurance,,149.5,,,6,insurance,2025-06
+2025-06-24,belfius_deposit,Salaris Juni 2025,2976.07,income,,-2976.07,,,6,income,2025-06
+2025-06-24,belfius_deposit,Snoeien van de haag,180.0,income,,-180.0,,,6,income,2025-06
+2025-06-24,belfius_deposit,Drinken bij ruben,-4.2,entertainment/drinks,,4.2,,,6,entertainment,2025-06
+2025-06-24,belfius_deposit,Eten bij rube,-5.01,food,,5.01,,,6,food,2025-06
+2025-06-23,belfius_deposit,DUWO huur,-377.73,rent,,377.73,,,6,rent,2025-06
+2025-06-20,belfius_deposit,Applied Sciences student restaurant,-2.3,food/student_restaurants,,2.3,,,6,food,2025-06
+2025-06-19,belfius_deposit,leidingen voor vaatwas van gamma,4.32,unforesceen_expenses,,-4.32,,,6,unforesceen_expenses,2025-06
+2025-06-19,belfius_deposit,Lin,40.0,income,,-40.0,,,6,income,2025-06
+2025-06-19,belfius_deposit,jumbo boodschappen,-4.28,food/groceries,,4.28,,,6,food,2025-06
+2025-06-18,belfius_deposit,ikea,-32.61,other,,32.61,,,6,other,2025-06
+2025-06-17,belfius_deposit,tanken maes,-70.7,transportation/fuel,,70.7,,,6,transportation,2025-06
+2025-06-16,belfius_deposit,BANCONTACT APP OF MOBILE BANKING APP ONTVANGST - Van den Bossche P2P MOBILE - 14/06/25 00:24 - KAART 6703 97XX XXXX 2888,9.4,entertainment/drinks,,-9.4,,,6,entertainment,2025-06
+2025-06-16,belfius_deposit,Bierpakket,-67.0,other,,67.0,,,6,other,2025-06
+2025-06-16,belfius_deposit,Emotia,10.0,entertainment/drinks,,-10.0,,,6,entertainment,2025-06
+2025-06-16,belfius_deposit,drinks emotia ,-44.0,entertainment/drinks,,44.0,,,6,entertainment,2025-06
+2025-06-12,belfius_deposit,jumbo boodschappen,-6.79,food/groceries,,6.79,,,6,food,2025-06
+2025-06-12,belfius_deposit,Applied Sciences student restaurant,-8.5,food/student_restaurants,,8.5,,,6,food,2025-06
+2025-06-11,belfius_deposit,Applied Sciences student restaurant,-10.1,food/student_restaurants,,10.1,,,6,food,2025-06
+2025-06-11,belfius_deposit,garmin,-421.5,sports,,421.5,,,6,sports,2025-06
+2025-06-10,belfius_deposit,"GP Pr Aische 801510 Aische-En-Ref BE 20,00 EUR",-20.0,unknown,,20.0,,,6,unknown,2025-06
+2025-06-10,belfius_deposit,jumbo boodschappen,-5.78,food/groceries,,5.78,,,6,food,2025-06
+2025-06-10,belfius_deposit,"GP AUBERGE DU LAC BAVIGNE LU 58,30 EUR KAART NR 5169 2010 7988 0753",,trips/luxemburg_2025,,,,,6,trips,2025-06
+2025-06-10,belfius_deposit,"GP Les Amis Ch teau Vian Vianden LU 16,00 EUR KAART NR 5169 2010 7988 0753",-16.0,trips/luxemburg_2025,,16.0,,,6,trips,2025-06
+2025-06-10,belfius_deposit,"GP Buvette du T l si-ge V Vianden LU 6,20 EUR KAART NR 5169 2010 7988 0753",-6.2,trips/luxemburg_2025,,6.2,,,6,trips,2025-06
+2025-06-10,belfius_deposit,eten luxemburg,-25.8,trips/luxemburg_2025,,25.8,,,6,trips,2025-06
+2025-06-10,belfius_deposit,"GP Auberge de Vianden Vianden LU 45,00 EUR KAART NR 5169 2010 7988 0753",-45.0,trips/luxemburg_2025,,45.0,,,6,trips,2025-06
+2025-06-10,belfius_deposit,iets gedronken in Aalst,-31.2,entertainment/drinks,,31.2,,,6,entertainment,2025-06
+2025-06-10,belfius_deposit,BANCONTACT APP OF MOBILE BANKING APP ONTVANGST - Van den Bossche P2P MOBILE - 06/06/25 23:31 - KAART 6703 97XX XXXX 9300,5.4,entertainment/drinks,,-5.4,,,6,entertainment,2025-06
+2025-06-10,belfius_deposit,Lin,25.0,income,,-25.0,,,6,income,2025-06
+2025-06-10,belfius_deposit,Huisrekening,-260.64,internet_tv,,260.64,,,6,internet_tv,2025-06
+2025-06-10,belfius_deposit,Oostens Augustine,10.1,entertainment/drinks,,-10.1,,,6,entertainment,2025-06
+2025-06-10,belfius_deposit,Van den Bossche Helene,5.4,entertainment/drinks,,-5.4,,,6,entertainment,2025-06
+2025-06-04,belfius_deposit,jumbo boodschappen,-3.8,food/groceries,,3.8,,,6,food,2025-06
+2025-06-03,belfius_deposit,tanken maes,-74.86,transportation/fuel,,74.86,,,6,transportation,2025-06
+2025-06-03,belfius_deposit,jumbo boodschappen,-19.31,food/groceries,,19.31,,,6,food,2025-06
+2025-06-03,belfius_deposit,Lin,30.0,income,,-30.0,,,6,income,2025-06
+2025-06-03,belfius_mastercard,Netflix,-9.99,entertainment,,9.99,,,6,entertainment,2025-06
+2025-06-03,belfius_mastercard,mcdoken op retreat,-10.6,food/restaurants,,10.6,,,6,food,2025-06
+2025-06-02,belfius_deposit,jumbo boodschappen,-4.78,food/groceries,,4.78,,,6,food,2025-06
+2025-06-02,belfius_deposit,jumbo boodschappen,-22.24,food/groceries,,22.24,,,6,food,2025-06
+2025-06-02,belfius_deposit,zakgeld meme pepe,25.0,income/parental_income,,-25.0,,,6,income,2025-06
+2025-06-02,belfius_deposit, 't Aygems Cafeetje Pintjes,-11.5,entertainment/drinks,,11.5,,,6,entertainment,2025-06
+2025-06-02,belfius_deposit, 't Aygems Cafeetje Pintjes,-4.6,entertainment/drinks,,4.6,,,6,entertainment,2025-06
+2025-07-31,belfius_deposit,decathlon,-154.0,sports,,154.0,,,7,sports,2025-07
+2025-07-31,belfius_deposit,jumbo boodschappen,-6.0,food/groceries,,6.0,,,7,food,2025-07
+2025-07-29,belfius_deposit,"GP 'T KRAAIKEN AALST BE 6,00 EUR KAART NR 5169 2010 7988 0753",-6.0,entertainment/drinks,,6.0,,,7,entertainment,2025-07
+2025-07-29,belfius_deposit,WENDY VAN LANDEGHEM,-10.0,unknown,,10.0,,,7,unknown,2025-07
+2025-07-28,belfius_deposit,Aperol,-9.0,entertainment/drinks,,9.0,,,7,entertainment,2025-07
+2025-07-28,belfius_deposit,tanken maes,-71.47,transportation/fuel,,71.47,,,7,transportation,2025-07
+2025-07-28,belfius_deposit,"GP PARKING SINT-PIETERSPL GENT BE 6,50 EUR KAART NR 5169 2010 7988 0753",-6.5,transportation,,6.5,,,7,transportation,2025-07
+2025-07-28,belfius_deposit,Vandenbossche-vanhove,-15.0,unknown,,15.0,,,7,unknown,2025-07
+2025-07-28,belfius_deposit,DUWO huur,-377.73,rent,,377.73,,,7,rent,2025-07
+2025-07-28,belfius_deposit,BANCONTACT AANKOOP - SNCBPPSEWEBPROD - 1060 BRUSSEL BE - 27/07/25 19:15 - VIA INTERNET - KAART 5169 20XX XXXX 0753,-5.5,transportation,,5.5,,,7,transportation,2025-07
+2025-07-28,belfius_deposit,BANCONTACT AANKOOP - SINT BAAFSPLEIN - 9000 GENT BE - 27/07/25 00:36 - CONTACTLESS - KAART 5169 20XX XXXX 0753,-18.0,entertainment/drinks,,18.0,,,7,entertainment,2025-07
+2025-07-25,belfius_deposit,BANCONTACT APP OF MOBILE BANKING APP - ROBBE DE CONINCKP2P MOBILE - 25/07/25 19:17 - KAART 5169 20XX XXXX 0753,-6.8,unknown,,6.8,,,7,unknown,2025-07
+2025-07-24,belfius_deposit,Zilveren Kruis Zorgverzekering,-149.5,insurance,,149.5,,,7,insurance,2025-07
+2025-07-24,belfius_deposit,jumbo boodschappen,-6.59,food/groceries,,6.59,,,7,food,2025-07
+2025-07-24,belfius_deposit,Salaris Juli 2025,2509.71,income,,-2509.71,,,7,income,2025-07
+2025-07-23,belfius_deposit,jumbo boodschappen,-18.2,food/groceries,,18.2,,,7,food,2025-07
+2025-07-23,belfius_deposit,jumbo boodschappen,-6.0,food/groceries,,6.0,,,7,food,2025-07
+2025-07-22,belfius_deposit,"GP BCK*Spar University TU DELFT NL 10,74 EUR KAART NR 5169 2010 7988 0753",-10.74,food/groceries,,10.74,,,7,food,2025-07
+2025-07-22,belfius_deposit,"GP PAY* TREFPUNT FESTIVAL GENT BE 23,50 EUR",-23.5,entertainment/drinks,,23.5,,,7,entertainment,2025-07
+2025-07-22,belfius_deposit,"GP PAY* TREFPUNT FESTIVAL GENT BE 6,00 EUR KAART NR 5169 2010 7988 0753",-6.0,entertainment/drinks,,6.0,,,7,entertainment,2025-07
+2025-07-22,belfius_deposit,"GP Albert Heijn 3020 Gent BE 3,79 EUR KAART NR 5169 2010 7988 0753",-3.79,food/groceries,,3.79,,,7,food,2025-07
+2025-07-22,belfius_deposit,"GP PAY* TREFPUNT FESTIVAL GENT BE 7,00 EUR KAART NR 5169 2010 7988 0753",-7.0,entertainment/drinks,,7.0,,,7,entertainment,2025-07
+2025-07-22,belfius_deposit,"GP PAY*OUDE BEESTENMARKT GENT BE 7,00 EUR KAART NR 5169 2010 7988 0753",-7.0,entertainment/drinks,,7.0,,,7,entertainment,2025-07
+2025-07-22,belfius_deposit,"GP BIJ SINT-JACOBS GENT BE 6,00 EUR KAART NR 5169 2010 7988 0753",-6.0,entertainment/drinks,,6.0,,,7,entertainment,2025-07
+2025-07-22,belfius_deposit,AANKOOP DE LIJN 1x M-card10 2025/07/18 22:42:52 - undefined,-21.0,transportation,,21.0,,,7,transportation,2025-07
+2025-07-18,belfius_deposit,"GP SumUp * Maspoe Erpe BE 10,00 EUR",-10.0,entertainment/drinks,,10.0,,,7,entertainment,2025-07
+2025-07-18,belfius_deposit,IMEN AL-FERTUSSI,-17.6,entertainment/drinks,,17.6,,,7,entertainment,2025-07
+2025-07-15,belfius_deposit,jumbo boodschappen,-1.7,food/groceries,,1.7,,,7,food,2025-07
+2025-07-15,belfius_deposit,jumbo boodschappen,-5.67,food/groceries,,5.67,,,7,food,2025-07
+2025-07-15,belfius_deposit,Applied Sciences student restaurant,-6.7,food/student_restaurants,,6.7,,,7,food,2025-07
+2025-07-14,belfius_deposit,tanken maes,-93.05,transportation/fuel,,93.05,,,7,transportation,2025-07
+2025-07-14,belfius_deposit,"GP BCK* Inter IKEA Systems DELFT NL 20,15 EUR KAART NR 5169 2010 7988 0753",-20.15,other,,20.15,,,7,other,2025-07
+2025-07-14,belfius_deposit,"GP BCK* Inter IKEA Systems DELFT NL 331,20 EUR KAART NR 5169 2010 7988 0753",-331.2,other,,331.2,,,7,other,2025-07
+2025-07-14,belfius_deposit,jumbo boodschappen,-17.54,food/groceries,,17.54,,,7,food,2025-07
+2025-07-14,belfius_deposit,Applied Sciences student restaurant,-13.4,food/student_restaurants,,13.4,,,7,food,2025-07
+2025-07-09,belfius_deposit,jumbo boodschappen,-17.27,food/groceries,,17.27,,,7,food,2025-07
+2025-07-09,belfius_deposit,Applied Sciences student restaurant,-9.85,food/student_restaurants,,9.85,,,7,food,2025-07
+2025-07-08,belfius_deposit,"GP LUNCH GARDEN 723 TERNA TERNAT BE 27,98 EUR KAART NR 5169 2010 7988 0753",-27.98,food/restaurants,,27.98,,,7,food,2025-07
+2025-07-07,belfius_deposit,Woeps,-0.4,gifts,,0.4,,,7,gifts,2025-07
+2025-07-07,belfius_deposit,Bloemetjes voor Fien,-4.0,gifts,,4.0,,,7,gifts,2025-07
+2025-07-07,belfius_deposit,"GP MC DONALDS 1754 GREDING DE 5,49 EUR KAART NR 5169 2010 7988 0753",-5.49,food,,5.49,,,7,food,2025-07
+2025-07-07,belfius_deposit,toilettebezoek,-1.0,other,,1.0,,,7,other,2025-07
+2025-07-07,belfius_deposit,Lunch Garden,14.0,food/restaurants,,-14.0,,,7,food,2025-07
+2025-07-07,belfius_deposit,Lise De Koster,-2.0,food/restaurants,,2.0,,,7,food,2025-07
+2025-07-04,belfius_mastercard,mms nederland,-17.99,unknown,,17.99,,,7,unknown,2025-07
+2025-07-04,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,7,entertainment,2025-07
+2025-07-04,belfius_mastercard,ikea,-91.95,other,,91.95,,,7,other,2025-07
+2025-07-02,belfius_deposit,toilettebezoek,-1.0,other,,1.0,,,7,other,2025-07
+2025-07-01,belfius_deposit,zakgeld meme pepe,25.0,income/parental_income,,-25.0,,,7,income,2025-07
+2025-07-01,belfius_deposit,zeeman,-1.47,other,,1.47,,,7,other,2025-07
+2025-08-26,belfius_deposit,macdo naar dolomieten,-8.24,trips/oostenrijk_2025,,8.24,,,8,trips,2025-08
+2025-08-26,belfius_deposit,macdo naar dolomieten,-6.99,trips/oostenrijk_2025,,6.99,,,8,trips,2025-08
+2025-08-26,belfius_deposit,eten dolomieten,-92.86,trips/oostenrijk_2025,,92.86,,,8,trips,2025-08
+2025-08-26,belfius_deposit,eten dolomiete,-123.55,trips/oostenrijk_2025,,123.55,,,8,trips,2025-08
+2025-08-25,belfius_deposit,Zilveren Kruis Zorgverzekering,-149.5,insurance,,149.5,,,8,insurance,2025-08
+2025-08-22,belfius_deposit,lidl boodschappen,-36.95,food/groceries,,36.95,,,8,food,2025-08
+2025-08-22,belfius_deposit,Salaris Augustus 2025,2910.4,income,,-2910.4,,,8,income,2025-08
+2025-08-20,belfius_deposit,Verschil tricounts,38.8,trips/dolomieten_2025,,-38.8,,,8,trips,2025-08
+2025-08-20,belfius_deposit,Helene Van Den Bossche,-280.0,trips/oostenrijk_2025,,280.0,,,8,trips,2025-08
+2025-08-20,belfius_deposit,Wagrain wandelvakantie,-211.37,trips/oostenrijk_2025,,211.37,,,8,trips,2025-08
+2025-08-18,belfius_deposit,Applied Sciences student restaurant,-2.75,food/student_restaurants,,2.75,,,8,food,2025-08
+2025-08-18,belfius_deposit,tanken maes,-55.0,transportation/fuel,,55.0,,,8,transportation,2025-08
+2025-08-14,belfius_deposit,jumbo boodschappen,-6.7,food/groceries,,6.7,,,8,food,2025-08
+2025-08-14,belfius_deposit,"DEBITMASTERCARD-BETALING 13/08 Gall & Gall 6634 DELFT NL 29,48 EUR - Van den Bossche H",-29.48,entertainment/drinks,,29.48,,,8,entertainment,2025-08
+2025-08-13,belfius_deposit,jumbo boodschappen,-21.72,food/groceries,,21.72,,,8,food,2025-08
+2025-08-04,belfius_deposit,lidl boodschappen,-30.05,food/groceries,,30.05,,,8,food,2025-08
+2025-08-04,belfius_deposit,"DEBITMASTERCARD-BETALING 02/08 Baeckerei Conditorei R Hillesheim DE 6,00 EUR - Van den Bossche H",-6.0,trips/oostenrijk_2025,,6.0,,,8,trips,2025-08
+2025-08-04,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,8,entertainment,2025-08
+2025-08-04,belfius_mastercard,DNA complete,-452.58,other,,452.58,,,8,other,2025-08
+2025-08-04,belfius_deposit,Mooie uitstapjes,25.0,income/parental_income,,-25.0,,,8,income,2025-08
+2025-08-01,belfius_deposit,zakgeld meme pepe,25.0,income/parental_income,,-25.0,,,8,income,2025-08
+2025-08-01,belfius_deposit,zakgeld meme pepe,25.0,income/parental_income,,-25.0,,,8,income,2025-08
+2025-09-30,belfius_deposit,jumbo boodschappen,-7.28,food/groceries,,7.28,,,9,food,2025-09
+2025-09-30,belfius_deposit,Applied Sciences student restaurant,-4.75,food/student_restaurants,,4.75,,,9,food,2025-09
+2025-09-29,belfius_deposit,museeum la coupole,-11.5,other,,11.5,,,9,other,2025-09
+2025-09-29,belfius_deposit,lidl boodschappen,-102.14,food/groceries,,102.14,,,9,food,2025-09
+2025-09-29,belfius_deposit,booschappen barryweekend,-137.94,trips/barryweekend_2025,,137.94,,,9,trips,2025-09
+2025-09-29,belfius_deposit,lidl boodschappen,-117.64,trips/barryweekend_2025,,117.64,,,9,trips,2025-09
+2025-09-29,belfius_deposit,bier barryweekend,-37.74,trips/barryweekend_2025,,37.74,,,9,trips,2025-09
+2025-09-29,belfius_deposit,tanken gabriel,-31.45,transportation/fuel,,31.45,,,9,transportation,2025-09
+2025-09-29,belfius_deposit,frietjes erpe mere,-13.2,food/restaurants,,13.2,,,9,food,2025-09
+2025-09-26,belfius_deposit,poke bowl op weg naar barryweekend,-13.6,food/restaurants,,13.6,,,9,food,2025-09
+2025-09-26,belfius_deposit,tanken gabriel,-40.05,transportation/fuel,,40.05,,,9,transportation,2025-09
+2025-09-26,belfius_deposit,jumbo boodschappen,-2.0,food/groceries,,2.0,,,9,food,2025-09
+2025-09-24,belfius_deposit,Zilveren Kruis Zorgverzekering,-149.5,insurance,,149.5,,,9,insurance,2025-09
+2025-09-24,belfius_deposit,Salaris September 2025,2604.88,income,,-2604.88,,,9,income,2025-09
+2025-09-24,belfius_deposit,jumbo boodschappen,-24.22,food/groceries,,24.22,,,9,food,2025-09
+2025-09-24,belfius_deposit,Applied Sciences student restaurant,-11.3,food/student_restaurants,,11.3,,,9,food,2025-09
+2025-09-22,belfius_deposit,Applied Sciences student restaurant,-10.75,food/student_restaurants,,10.75,,,9,food,2025-09
+2025-09-22,belfius_deposit,VR experience oostende,-33.0,entertainment,,33.0,,,9,entertainment,2025-09
+2025-09-22,belfius_deposit,VR oostende,16.5,entertainment,,-16.5,,,9,entertainment,2025-09
+2025-09-22,belfius_deposit,okay Affligem,-14.14,food/groceries,,14.14,,,9,food,2025-09
+2025-09-22,belfius_deposit,tanken maes,-70.59,transportation/fuel,,70.59,,,9,transportation,2025-09
+2025-09-18,belfius_deposit,jumbo boodschappen,-1.0,food/groceries,,1.0,,,9,food,2025-09
+2025-09-18,belfius_deposit,jumbo boodschappen,-17.66,food/groceries,,17.66,,,9,food,2025-09
+2025-09-18,belfius_deposit,Applied Sciences student restaurant,-7.05,food/student_restaurants,,7.05,,,9,food,2025-09
+2025-09-18,belfius_deposit,smartphonehoesje halewijn,-41.68,other,,41.68,,,9,other,2025-09
+2025-09-17,belfius_deposit,"AP CCV* BADHOTEL DOMBURG DOMBURG NL 39,00 EUR KAART NR 5169 2010 7988 0753",-39.0,trips/zeeland_2025,,39.0,,,9,trips,2025-09
+2025-09-17,belfius_deposit,"AP BCK* Deltapark VROUWENPOLDER NL 56,00 EUR KAART NR 5169 2010 7988 0753",-56.0,trips/zeeland_2025,,56.0,,,9,trips,2025-09
+2025-09-17,belfius_deposit,"AP Gastrobar sante Vlissingen NL 39,00 EUR KAART NR 5169 2010 7988 0753",-39.0,trips/zeeland_2025,,39.0,,,9,trips,2025-09
+2025-09-17,belfius_deposit,Barryweekend,-74.15,trips/barryweekend_2025,,74.15,,,9,trips,2025-09
+2025-09-17,belfius_deposit,Vlissingen,39.2,trips/zeeland_2025,,-39.2,,,9,trips,2025-09
+2025-09-16,belfius_deposit,"AP CCV*La Bella Cucina VLISSINGEN NL 23,25 EUR KAART NR 5169 2010 7988 0753",-23.25,trips/zeeland_2025,,23.25,,,9,trips,2025-09
+2025-09-16,belfius_deposit,"AP Bever MIDDELBURG NL 155,20 EUR",-155.2,trips/zeeland_2025,,155.2,,,9,trips,2025-09
+2025-09-16,belfius_deposit,"AP Museumschip Mercuur VLISSINGEN NL 16,00 EUR KAART NR 5169 2010 7988 0753",-16.0,trips/zeeland_2025,,16.0,,,9,trips,2025-09
+2025-09-16,belfius_deposit,"AP Intertoys MIDDELBURG NL 52,24 EUR",-52.24,gifts,,52.24,,,9,gifts,2025-09
+2025-09-16,belfius_deposit,"AP Ristorante Verdi DOMBURG NL 37,45 EUR KAART NR 5169 2010 7988 0753",-37.45,trips/zeeland_2025,,37.45,,,9,trips,2025-09
+2025-09-16,belfius_deposit,Treintickets budapest,-23.0,trips/wenen_budapest_2025,,23.0,,,9,trips,2025-09
+2025-09-15,belfius_deposit,"AP CCV* CAFETARIA KOKO VLISSINGEN NL 3,70 EUR KAART NR 5169 2010 7988 0753",-3.7,trips/zeeland_2025,,3.7,,,9,trips,2025-09
+2025-09-15,belfius_deposit,"AP Brasserie Parc B V Vlissingen NL 75,60 EUR KAART NR 5169 2010 7988 0753",-75.6,trips/zeeland_2025,,75.6,,,9,trips,2025-09
+2025-09-15,belfius_deposit,"AP Rest. Valkenisse BIGGEKERKE NL 26,20 EUR KAART NR 5169 2010 7988 0753",-26.2,trips/zeeland_2025,,26.2,,,9,trips,2025-09
+2025-09-15,belfius_deposit,Applied Sciences student restaurant,-7.05,food/student_restaurants,,7.05,,,9,food,2025-09
+2025-09-15,belfius_deposit,battle box voor koppels,-18.5,gifts,,18.5,,,9,gifts,2025-09
+2025-09-15,belfius_deposit,giraffenwijzer cadeau voor lise,-13.99,gifts,,13.99,,,9,gifts,2025-09
+2025-09-10,belfius_deposit,jumbo boodschappen,-4.37,food/groceries,,4.37,,,9,food,2025-09
+2025-09-10,belfius_deposit,jumbo boodschappen,-3.5,food/groceries,,3.5,,,9,food,2025-09
+2025-09-10,belfius_deposit,jumbo boodschappen,-11.83,food/groceries,,11.83,,,9,food,2025-09
+2025-09-10,belfius_deposit,jumbo boodschappen,-12.19,food/groceries,,12.19,,,9,food,2025-09
+2025-09-08,belfius_deposit,jeugdhuis dido ,-3.0,entertainment,,3.0,,,9,entertainment,2025-09
+2025-09-08,belfius_deposit,jeugdhuis dido ,-6.0,entertainment,,6.0,,,9,entertainment,2025-09
+2025-09-08,belfius_deposit,tanken maes,-89.89,transportation/fuel,,89.89,,,9,transportation,2025-09
+2025-09-08,belfius_deposit,Italian in Ternat terugbetaling van Lise,29.0,food/restaurants,,-29.0,,,9,food,2025-09
+2025-09-05,belfius_deposit, PAGLIACCI ternat,-58.0,food/restaurants,,58.0,,,9,food,2025-09
+2025-09-04,belfius_deposit,jumbo boodschappen,-1.0,food/groceries,,1.0,,,9,food,2025-09
+2025-09-04,belfius_deposit,rente op de schuld termijnrekening,345.8,income/stocks_obligations_loans,,-345.8,,,9,income,2025-09
+2025-09-03,belfius_deposit,jumbo boodschappen,-6.59,food/groceries,,6.59,,,9,food,2025-09
+2025-09-03,belfius_mastercard,SumUp Maspoe (ik denk drinken op de parkconcerten,-20.0,entertainment/drinks,,20.0,,,9,entertainment,2025-09
+2025-09-03,belfius_mastercard,netflix,-9.99,entertainment,,9.99,,,9,entertainment,2025-09
+2025-09-03,belfius_mastercard,jumbo boodschappen,-13.65,food/groceries,,13.65,,,9,food,2025-09
+2025-09-03,belfius_mastercard,jumbo boodschappen,-2.68,food/groceries,,2.68,,,9,food,2025-09
+2025-09-03,belfius_mastercard,therme bad B,-84.0,trips/dolomieten_2025,,84.0,,,9,trips,2025-09
+2025-09-03,belfius_mastercard,total energies,-60.47,trips/dolomieten_2025,,60.47,,,9,trips,2025-09
+2025-09-03,belfius_mastercard,shell,-95.67,trips/dolomieten_2025,,95.67,,,9,trips,2025-09
+2025-09-03,belfius_mastercard,pasticceria stern,-49.5,trips/dolomieten_2025,,49.5,,,9,trips,2025-09
+2025-09-03,belfius_mastercard,pasticceria fiori,-42.5,trips/dolomieten_2025,,42.5,,,9,trips,2025-09
+2025-09-03,belfius_mastercard,bar da gino,-48.5,trips/dolomieten_2025,,48.5,,,9,trips,2025-09
+2025-09-02,belfius_deposit,jumbo boodschappen,-16.42,food/groceries,,16.42,,,9,food,2025-09
+2025-09-02,belfius_deposit,"MC Goedert Frisange Frisange LU 82,66 EUR - Van den Bossche H",-82.66,trips/oostenrijk_2025,,82.66,,,9,trips,2025-09
+2025-09-02,belfius_deposit,Vanwege. Meme en Pepe,25.0,income/parental_income,,-25.0,,,9,income,2025-09
+2025-09-02,belfius_deposit,Lauranne Wagrain,-5.0,trips/dolomieten_2025,,5.0,,,9,trips,2025-09
+2025-09-01,belfius_deposit,"MC Hans Woedl Huette Aich AT 293,70 EUR - Van den Bossche H",-293.7,trips/oostenrijk_2025,,293.7,,,9,trips,2025-09
+2025-09-01,belfius_deposit,lidl boodschappen,-14.71,food/groceries,,14.71,,,9,food,2025-09
